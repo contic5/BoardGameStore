@@ -1,0 +1,30 @@
+img.displayitem
+{
+  width:300px;
+  height:300px;
+  border: black solid 2px;
+  align-self: center;
+}
+div.displayitem
+{
+  height:300px;
+  width:300px;
+  border: black solid 2px;
+  background-color: lightyellow;
+  align-self: center;
+}
+button
+{
+  font-size: 18px;
+  font-weight: bold;
+}
+table,td
+{
+  border: black solid 2px;
+  background-color: lightyellow;
+}
+body
+{
+  background-image: url("BoardSquare.png");
+  background-repeat: repeat;
+}
